@@ -22,8 +22,8 @@ def compute_descriptors(smiles):
     ]
 
 # Streamlit UI
-st.title("🧠 Blood-Brain Barrier Penetration Predictor")
-st.write("Enter a drug name and SMILES string to predict if the molecule can cross the blood-brain barrier (BBB).")
+st.title("Rofiat's Blood-Brain Barrier Penetration Predictor")
+st.write("Hiya, Enter a drug name and SMILES string to predict if the molecule can cross the blood-brain barrier (BBB).")
 
 # Drug name input
 drug_name = st.text_input("Drug Name (Optional):")
