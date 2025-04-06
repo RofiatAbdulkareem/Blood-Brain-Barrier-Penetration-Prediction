@@ -1,0 +1,7 @@
+Drug,SMILES,BBB_permeable
+Diazepam,CC1=CN=C(C=C1)C2=NC=CC=C2Cl,1
+Haloperidol,CC(CN1CCC(CC1)C2=CC=CC=C2Cl)O,1
+Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,1
+Morphine,COC1=CC2=C3C4=C(C=C1)OC5=CC=CC=C5[C@H]4CN6CCC[C@H]6C3,1
+Amoxicillin,CC1(C)S[C@H]2[C@H](NC(=O)C3=CC=CC=C3)C(=O)N2C1=O,0
+Penicillin,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,0
