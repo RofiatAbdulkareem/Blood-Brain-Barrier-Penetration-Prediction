@@ -1,5 +1,4 @@
 Drug,SMILES,BBB_permeable
-Diazepam,CC1=CN=C(C=C1)C2=NC=CC=C2Cl,1
 Haloperidol,CC(CN1CCC(CC1)C2=CC=CC=C2Cl)O,1
 Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,1
 Dopamine,C1=CC(=C(C=C1CCN)O)O,0
